@@ -63,5 +63,4 @@ For each object in the dataset, the script creates a panorama using 15 images ta
 
 ---
 
-**Author:** [Your Name]  
-**License:** MIT
+**Author:** Shafqat Mehmood
