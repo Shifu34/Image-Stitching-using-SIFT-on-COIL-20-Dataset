@@ -63,4 +63,9 @@ For each object in the dataset, the script creates a panorama using 15 images ta
 
 ---
 
-**Author:** Shafqat Mehmood
+## Author
+- Name: Shafqat Mehmood
+- Contact: shafqat129.mehmood@gmail.com
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
